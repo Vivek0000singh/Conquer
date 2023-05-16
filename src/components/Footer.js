@@ -11,7 +11,7 @@ const Footer = () => (
       pb="40px"
     >
       <br />
-      Made by <h4>VIVEK SINGH 😎</h4>{" "}
+      Made by <h4>VIVEK SINGH & BHAVEEN PANDEY</h4>{" "}
     </Typography>
   </Box>
 );
