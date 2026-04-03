@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Vivek0000singh/Conquer)](https://github.com/Vivek0000singh/Conquer/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-blue)](https://your-netlify-site.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-blue)](https://conquer-78.netlify.app/)
 [![React](https://img.shields.io/badge/React-18.1.0-blue)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-5.8.3-purple)](https://mui.com/)
 
