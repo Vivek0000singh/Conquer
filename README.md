@@ -200,11 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Material-UI Team** for the excellent UI component library
 - **React Team** for the amazing frontend framework
 
-## 📞 Contact
-
-Created by **Vivek Singh** - [GitHub](https://github.com/Vivek0000singh) | [Portfolio](your-portfolio-link)
-
----
 
 <div align="center">
 
